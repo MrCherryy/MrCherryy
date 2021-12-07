@@ -1,7 +1,23 @@
+Star this repo
+7712
+Fork on GitHub
+1549
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm MrCherryy!</h1>
 <h3 align="center">A passionate full stack developer fresh out of Le Wagon coding bootcamp!</h3>
 
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **marcorenatocerri@gmail.com**
+
+<h3 align="left">This is all a very big work in progress. Please bear it with me! ✌️</h3>
 <p align="left">
 </p>
 
