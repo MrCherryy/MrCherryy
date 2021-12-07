@@ -1,17 +1,3 @@
-Star this repo
-7712
-Fork on GitHub
-1549
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm MrCherryy!</h1>
 <h3 align="center">A passionate full stack developer fresh out of Le Wagon coding bootcamp!</h3>
 
