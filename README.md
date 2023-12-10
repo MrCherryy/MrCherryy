@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm MrCherryy!</h1>
-<h3 align="center">A passionate full stack developer fresh out of Le Wagon coding bootcamp!</h3>
+<h1 align="center">Hi 👋, I'm MrCherry(y)!</h1>
+<h3 align="center"> </h3>
 
 - 📫 How to reach me **marcorenatocerri@gmail.com**
 
