@@ -4,7 +4,37 @@
 - 📫 How to reach me **marcorenatocerri@gmail.com**
 
 <h3 align="left">This is all a very big work in progress. Please bear it with me! ✌️
-My nickname is a sum of my first name, middle name and last name! </h3>
+<br> My nickname is a sum of my first name (Marco), middle name (Renato) and last name (Cerri)! </h3><br>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm MrCherry(y)! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p><em>Career Changer: <a href="https://www.disneyworld.eu"> from Disney Facilitator to Data Analyst!
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> 
+
+
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br></p><br>
+
+
+**🐱 My GitHub Data** <br>
+
+>> 📦 xxx kB Used in GitHub's Storage <br>
+ > 
+> 🏆 2 Contributions in the Year 2024<br>
+ > 
+> 🚫 Not Opted to Hire<br>
+ > 
+> 📜 14 Public Repositories <br>
+ > 
+> 🔑 2 Private Repositories <br>
+ 
+**I'm a Night 🦉** <br>
+
+🌞 Morning                402 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % <br>
+🌆 Daytime                1697 commits        ██████████░░░░░░░░░░░░░░░   39.13 % <br>
+🌃 Evening                1412 commits        ████████░░░░░░░░░░░░░░░░░   32.56 % <br>
+🌙 Night                  826 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % <br>
+```
+
 <p align="left">
 </p>
 
