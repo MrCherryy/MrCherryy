@@ -3,13 +3,16 @@
 <p align="left">
 </p>
 <h3 align="left">This is all a very big work in progress. Please bear it with me! ✌️
-<br> My nickname is a sum of my first name (Marco), middle name (Renato) and last name (Cerri)! </h3><br>
+<br> </h3><br>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm MrCherry(y)! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>Career Changer: <a href="https://www.disneyworld.eu"> from Disney Facilitator to Data Analyst!
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> 
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br></p><br>
+
+
+- 📫 How to reach me **marcorenatocerri@gmail.com**
 
 
 **🐱 My GitHub Data** <br>
@@ -39,9 +42,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrcherryy&show_icons=true&locale=en" alt="mrcherryy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrcherryy&" alt="mrcherryy" /></p>
-
-
-- 📫 How to reach me **marcorenatocerri@gmail.com**
 
 
 
