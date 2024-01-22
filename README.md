@@ -3,7 +3,8 @@
 
 - 📫 How to reach me **marcorenatocerri@gmail.com**
 
-<h3 align="left">This is all a very big work in progress. Please bear it with me! ✌️</h3>
+<h3 align="left">This is all a very big work in progress. Please bear it with me! ✌️
+My nickname is a sum of my first name, middle name and last name! </h3>
 <p align="left">
 </p>
 
