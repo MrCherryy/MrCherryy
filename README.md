@@ -21,7 +21,7 @@
  > 
 > 🏆 2 Contributions in the Year 2024<br>
  > 
-> 🚫 Not Opted to Hire<br>
+> ✅  Open to Hire<br>
  > 
 > 📜 14 Public Repositories <br>
  > 
